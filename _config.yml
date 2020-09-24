@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Robert Cline Sr
   avatar: bio-photo.jpg
-  bio: " My bio"
+  bio: "Robert C. Cline, Sr. Certified Professional Landman, Masters Degree in Clinical Psychology. Experienced managing land brokerage firms and field work specializing in Leasing, Title, Due Diligence, and GIS mapping. His interests include Statistics, Geo-spatial using RStudio; QGIS for GIS mapping. MS Database management, Data Analytics using Power BI, Power Query, DAX language, and application development using Excel VBA and Access VBA."
   email: rccline@fastmail.fm
   # Do not include the @ symbol in your Twitter username
   twitter: @dastrotrad
